@@ -4,6 +4,7 @@ I'm one of the people who love to include there name in everything. I know its a
 Its pretty easy to use, the GUI is made for users who have less idea regarding python and want to use it directly. I've created an exe from pyinstaller. Sp, if you want to only use it, just download the exe and use without any issues!
 
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/image.png)
+
 You'll be greeted with this screen.
 Steps to Add yourself:
 1. First Of all enter something like - Made by #Your name - The pro coder (add this in the first box)
@@ -12,4 +13,11 @@ Steps to Add yourself:
 4. Last thing - go to browse file and select your python file
 
 Here are some photos of me doing this:
-![Image]()
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/Screenshot%202021-05-16%20131713.png)
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/Screenshot%202021-05-16%20131816.png)
+
+![Image](https://github.com/saksham-lussqvx/images/blob/master/Screenshot%202021-05-16%20131914.png)
+
+
