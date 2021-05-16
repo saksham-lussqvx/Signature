@@ -1,5 +1,5 @@
 # Signature
-I'm one of the people who love to include there name in everything. I know its annoying but its fun! So, I have created this GUI based program which can include your name, date and time in any python script or txt or any file you want!
+I'm one of the people who love to include their name in everything. I know its kinda annoying for everyone else but its fun too! So, I have created this GUI based program which can include your name, date and time in any python script or txt or any file you want!
 ### Usage and about the program
 Its pretty easy to use, the GUI is made for users who have less idea regarding python and want to use it directly. I've created an exe from pyinstaller. So, if you want to only use it, just download the exe and use without any issues!
 
