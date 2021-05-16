@@ -3,7 +3,7 @@ I'm one of the people who love to include there name in everything. I know its a
 ### Usage
 Its pretty easy to use, the GUI is made for users who have less idea regarding python and want to use it directly. I've created an exe from pyinstaller. Sp, if you want to only use it, just download the exe and use without any issues!
 
-![Image](https://github.com/saksham-lussqvx/images/blob/master/image.png)
+![Image](https://github.com/saksham-lussqvx/images/blob/master/image%20(1).jpg)
 
 You'll be greeted with this screen.
 Steps to Add yourself:
