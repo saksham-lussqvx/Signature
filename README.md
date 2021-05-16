@@ -15,7 +15,6 @@ Steps to Add yourself:
 Here are some photos of me doing this:
 
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/Screenshot%202021-05-16%20131713.jpg)
-
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/Screenshot%202021-05-16%20131816.jpg)
 
 ![Image](https://github.com/saksham-lussqvx/images/blob/master/Screenshot%202021-05-16%20131914.jpg)
