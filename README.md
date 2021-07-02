@@ -5,7 +5,7 @@ I'm one of the people who love to include their name in everything. I know its k
 ## Updates
 Now I've created an eye catching GUI design for the program, and has added one specific function, instead of you writing the date and time manually, the program will fetch that from its metadata and will include by itself. You'll have to write your SIGN for once and then it'll create a file which it will access later on to create signature for all files.
 
-![Image](https://github.com/saksham-lussqvx/images/blob/master/image.png)
+![Image](https://github.com/saksham-lussqvx/images/blob/master/img_show_2.png)
 
 ### Usage and about the program
 Its pretty easy to use, the GUI is made for users who have less idea regarding python and want to use it directly. I've created an exe from pyinstaller. So, if you want to only use it, just download the exe and use without any issues!
